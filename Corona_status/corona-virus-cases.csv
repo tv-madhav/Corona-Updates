@@ -1,0 +1,206 @@
+,Countries,Total Cases,Total Deaths
+1,USA,"188,639","4,059"
+2,Italy,"105,792","12,428"
+3,Spain,"102,136","9,053"
+4,Germany,"72,383",788
+5,France,"52,128","3,523"
+6,Iran,"47,593","3,036"
+7,UK,"25,150","1,789"
+8,Switzerland,"16,605",433
+9,Belgium,"13,964",828
+10,Turkey,"13,531",214
+11,Netherlands,"12,595","1,039"
+12,Austria,"10,418",146
+13,S. Korea,"9,887",165
+14,Canada,"8,612",101
+15,Portugal,"7,443",160
+16,Brazil,"5,812",202
+17,Israel,"5,591",21
+18,Australia,"4,864",21
+19,Norway,"4,699",40
+20,Sweden,"4,435",180
+21,Czechia,"3,330",32
+22,Ireland,"3,235",71
+23,Malaysia,"2,908",45
+24,Denmark,"2,860",90
+25,Russia,"2,777",24
+26,Chile,"2,738",12
+27,Romania,"2,460",85
+28,Poland,"2,347",35
+29,Philippines,"2,311",96
+30,Ecuador,"2,302",79
+31,Japan,"2,178",57
+32,Luxembourg,"2,178",23
+33,Pakistan,"2,042",26
+34,Thailand,"1,771",12
+35,Indonesia,"1,677",157
+36,India,"1,590",45
+37,Saudi Arabia,"1,563",10
+38,Finland,"1,446",17
+39,South Africa,"1,353",5
+40,Greece,"1,314",49
+41,Mexico,"1,215",29
+42,Panama,"1,181",30
+43,Iceland,"1,135",2
+44,Dominican Republic,"1,109",51
+45,Peru,"1,065",30
+46,Argentina,"1,054",27
+47,Singapore,926,3
+48,Colombia,906,16
+49,Serbia,900,23
+50,Croatia,867,6
+51,Slovenia,841,15
+52,Qatar,781,2
+53,Estonia,779,5
+54,Hong Kong,765,4
+55,Algeria,716,44
+56,Diamond Princess,712,11
+57,Egypt,710,46
+58,New Zealand,708,1
+59,Iraq,694,50
+60,Ukraine,669,17
+61,UAE,664,6
+62,Morocco,638,36
+63,Lithuania,581,8
+64,Armenia,571,3
+65,Bahrain,567,4
+66,Hungary,525,20
+67,Lebanon,479,12
+68,Bosnia and Herzegovina,450,13
+69,Latvia,446,
+70,Bulgaria,412,8
+71,Slovakia,400,
+72,Tunisia,394,10
+73,Andorra,376,12
+74,Kazakhstan,372,3
+75,Azerbaijan,359,5
+76,Moldova,353,4
+77,Costa Rica,347,2
+78,Uruguay,338,1
+79,North Macedonia,329,9
+80,Taiwan,329,5
+81,Kuwait,317,
+82,Jordan,274,5
+83,Cyprus,262,8
+84,Burkina Faso,261,14
+85,Albania,259,15
+86,Réunion,247,
+87,San Marino,236,26
+88,Cameroon,233,6
+89,Vietnam,212,
+90,Oman,210,1
+91,Afghanistan,196,4
+92,Ghana,195,5
+93,Senegal,190,1
+94,Malta,188,
+95,Cuba,186,6
+96,Ivory Coast,179,1
+97,Uzbekistan,173,2
+98,Faeroe Islands,173,
+99,Honduras,172,10
+100,Belarus,163,2
+101,Channel Islands,159,3
+102,Mauritius,147,5
+103,Venezuela,143,3
+104,Sri Lanka,143,2
+105,Nigeria,139,2
+106,Palestine,134,1
+107,Brunei ,131,1
+108,Martinique,128,3
+109,Montenegro,120,2
+110,Bolivia,115,7
+111,Georgia,115,
+112,Guadeloupe,114,4
+113,Kyrgyzstan,111,
+114,DRC,109,8
+115,Cambodia,109,
+116,Mayotte,94,1
+117,Trinidad and Tobago,89,4
+118,Rwanda,75,
+119,Paraguay,69,3
+120,Gibraltar,69,
+121,Liechtenstein,68,
+122,Isle of Man,65,
+123,Kenya,59,1
+124,Madagascar,57,
+125,Aruba,55,
+126,Bangladesh,54,6
+127,Monaco,52,1
+128,French Guiana,51,
+129,Uganda,44,
+130,Macao,41,
+131,Guatemala,39,1
+132,Jamaica,38,2
+133,French Polynesia,37,
+134,Zambia,36,
+135,Niger,34,3
+136,Togo,34,1
+137,Barbados,34,
+138,El Salvador,32,1
+139,Bermuda,32,
+140,Djibouti,30,
+141,Ethiopia,29,
+142,Mali,28,2
+143,Guinea,22,
+144,Tanzania,19,1
+145,Congo,19,
+146,Gabon,18,1
+147,Maldives,18,
+148,Sint Maarten,16,1
+149,Haiti,16,
+150,New Caledonia,16,
+151,Myanmar,15,1
+152,Saint Martin,15,1
+153,Bahamas,15,
+154,Equatorial Guinea,15,
+155,Eritrea,15,
+156,Cayman Islands,14,1
+157,Mongolia,14,
+158,Saint Lucia,13,
+159,Guyana,12,2
+160,Dominica,12,
+161,Curaçao,11,1
+162,Namibia,11,
+163,Syria,10,2
+164,Greenland,10,
+165,Laos,10,
+166,Libya,10,
+167,Seychelles,10,
+168,Suriname,10,
+169,Benin,9,
+170,Grenada,9,
+171,Eswatini,9,
+172,Zimbabwe,8,1
+173,Guinea-Bissau,8,
+174,Mozambique,8,
+175,Saint Kitts and Nevis,8,
+176,Angola,7,2
+177,Sudan,7,2
+178,Antigua and Barbuda,7,
+179,Chad,7,
+180,Cabo Verde,6,1
+181,Mauritania,6,1
+182,Vatican City,6,
+183,Liberia,6,
+184,St. Barth,6,
+185,Nicaragua,5,1
+186,Nepal,5,
+187,Fiji,5,
+188,Montserrat,5,
+189,Somalia,5,
+190,Turks and Caicos,5,
+191,Botswana,4,1
+192,Gambia,4,1
+193,Bhutan,4,
+194,Belize,3,
+195,British Virgin Islands,3,
+196,CAR,3,
+197,MS Zaandam,2,
+198,Anguilla,2,
+199,Burundi,2,
+200,Caribbean Netherlands,2,
+201,Papua New Guinea,1,
+202,St. Vincent Grenadines,1,
+203,Sierra Leone,1,
+204,Timor-Leste,1,
+205,China,"81,554","3,312"
